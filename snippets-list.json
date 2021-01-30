@@ -108,6 +108,17 @@
               "categories": "",
               "file": "java-compare-arrays.md",
               "reference": ""
+            },
+            {
+              "title": "Spring: schedule the execution of a method or a task",
+              "description": "Java: how to schedule the execution of a method every x minutes or seconds. Using strings or cron.",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "spring",
+              "permalink": "/snippet/marco/spring-scheduler",
+              "categories": "",
+              "file": "spring-scheduler.md",
+              "reference": ""
             }
-            
+
 ]
