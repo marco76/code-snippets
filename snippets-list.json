@@ -9,5 +9,86 @@
               "categories": "",
               "reference": "",
               "file": "java-add-map-ifabsent.md"
+            },
+            {
+              "title": "Angular libraries",
+              "description": "",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "angular",
+              "permalink": "/snippet/marco/angular-libraries",
+              "categories": "",
+              "reference": ""
+            },
+            {
+              "title": "Call a function every x seconds in Angular",
+              "description": "How to call a function or http every few seconds in Angular",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "angular",
+              "permalink": "/snippet/marco/http-request-every-x-seconds-in-angular",
+              "categories": "",
+              "reference": ""
+            },
+            {
+              "title": "Angular setup a SSR project",
+              "description": "Setup a Server Side Rendered project with Angular Universal",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "angular",
+              "permalink": "/snippet/marco/angular-setup-ssr",
+              "categories": "",
+              "reference": ""
+            },
+            {
+              "title": "CSS how to define dark and light modes",
+              "description": "How to add the dark mode in CSS",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "css",
+              "permalink": "/snippet/marco/css-dark-mode",
+              "categories": "",
+              "reference": ""
+            },
+            {
+              "title": "Generate a sitemap with Java",
+              "description": "Generate a sitemap with Java for your Website. This will allows Google to find your pages easily for your Search Engine Optimization.",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "java",
+              "permalink": "/snippet/marco/generate-a-sitemap-with-java",
+              "categories": "",
+              "reference": ""
+            },
+            {
+              "title": "Does Java support default parameter values?",
+              "description": "How to define a default parameter in Java, tutorial",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "java",
+              "permalink": "/snippet/marco/java-default-parameter",
+              "categories": "",
+              "reference": ""
+            },
+            {
+              "title": "Calculate average of an array in Javascript",
+              "description": "Calculate the average of an array of values in Javascript in one line of code",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "javascript",
+              "permalink": "/snippet/marco/calculate-average-of-an-array-javascript",
+              "categories": "",
+              "reference": "https://stackoverflow.com/questions/29544371/finding-the-average-of-an-array-using-js/29544442"
+            },
+            {
+              "title": "Queue in Javascript",
+              "description": "Define a queue list in Javascript using FIFO (First In First Out)",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "javascript",
+              "permalink": "/snippet/marco/queue-in-javascript",
+              "categories": "",
+              "reference": "https://stackoverflow.com/questions/1590247/how-do-you-implement-a-stack-and-a-queue-in-javascript"
             }
+
 ]
