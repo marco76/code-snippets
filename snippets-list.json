@@ -97,6 +97,17 @@
               "categories": "",
               "file": "js-queue.md",
               "reference": "https://stackoverflow.com/questions/1590247/how-do-you-implement-a-stack-and-a-queue-in-javascript"
+            },
+            {
+              "title": "Compare two arrays in Java",
+              "description": "How to compare 2 arrays of objects or primitives in Java. Verify that the order is the same.",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "java",
+              "permalink": "/snippet/marco/java-compare-arrays",
+              "categories": "",
+              "file": "java-compare-arrays.md",
+              "reference": ""
             }
 
 ]
