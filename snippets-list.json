@@ -18,7 +18,8 @@
               "main-category": "angular",
               "permalink": "/snippet/marco/angular-libraries",
               "categories": "",
-              "reference": ""
+              "reference": "",
+              "file": "angular-libraries.md"
             },
             {
               "title": "Call a function every x seconds in Angular",
@@ -28,7 +29,8 @@
               "main-category": "angular",
               "permalink": "/snippet/marco/http-request-every-x-seconds-in-angular",
               "categories": "",
-              "reference": ""
+              "reference": "",
+              "file": "angular-poll-rest.md"
             },
             {
               "title": "Angular setup a SSR project",
@@ -38,7 +40,8 @@
               "main-category": "angular",
               "permalink": "/snippet/marco/angular-setup-ssr",
               "categories": "",
-              "reference": ""
+              "reference": "",
+              "file": "angular-ssr.md"
             },
             {
               "title": "CSS how to define dark and light modes",
@@ -48,7 +51,8 @@
               "main-category": "css",
               "permalink": "/snippet/marco/css-dark-mode",
               "categories": "",
-              "reference": ""
+              "reference": "",
+              "file": "css-dark-mode.md"
             },
             {
               "title": "Generate a sitemap with Java",
@@ -58,17 +62,19 @@
               "main-category": "java",
               "permalink": "/snippet/marco/generate-a-sitemap-with-java",
               "categories": "",
-              "reference": ""
+              "reference": "",
+              "file": "generate-sitemap.md"
             },
             {
               "title": "Does Java support default parameter values?",
-              "description": "How to define a default parameter in Java, tutorial",
+              "description": "How to define a default parameter in a Java method? example",
               "date": "2021-01-21T01:41:48+00:00",
               "author": "marco",
               "main-category": "java",
               "permalink": "/snippet/marco/java-default-parameter",
               "categories": "",
-              "reference": ""
+              "reference": "",
+              "file": "java-default-parameter.md"
             },
             {
               "title": "Calculate average of an array in Javascript",
@@ -78,6 +84,7 @@
               "main-category": "javascript",
               "permalink": "/snippet/marco/calculate-average-of-an-array-javascript",
               "categories": "",
+              "file": "js-average.md",
               "reference": "https://stackoverflow.com/questions/29544371/finding-the-average-of-an-array-using-js/29544442"
             },
             {
@@ -88,6 +95,7 @@
               "main-category": "javascript",
               "permalink": "/snippet/marco/queue-in-javascript",
               "categories": "",
+              "file": "js-queue.md",
               "reference": "https://stackoverflow.com/questions/1590247/how-do-you-implement-a-stack-and-a-queue-in-javascript"
             }
 
