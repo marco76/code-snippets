@@ -141,6 +141,27 @@
               "categories": "",
               "file": "mariadb-no-db-selected.md",
               "reference": ""
+            },
+            {
+              "title": "Java: short lists of values, define and check if value exists",
+              "description": "Define a list of values and check if a value is present in Java.",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "java",
+              "permalink": "/snippet/marco/java-check-value-in-array",
+              "categories": "",
+              "file": "java-check-value-in-array.md",
+              "reference": ""
+            },
+            {
+              "title": "JSF: use a Map to store UI values",
+              "description": "Define an hash map to dynamically store values in a JSF backin bean to avoid explicit declaration.",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "java",
+              "permalink": "/snippet/marco/java-jsf-read-values-map",
+              "categories": "",
+              "file": "java-jsf-read-values-map.md",
+              "reference": ""
             }
-
 ]
