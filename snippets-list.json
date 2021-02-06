@@ -174,6 +174,16 @@
               "categories": "",
               "file": "spring-test-database-h2-mysql.md",
               "reference": ""
+            },
+            {
+              "title": "CSS how to center items in the screen",
+              "description": "You can center items in the screen using a CSS Grid Box",
+              "date": "2021-01-21T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "css",
+              "permalink": "/snippet/marco/css-center-items-screen",
+              "categories": "",
+              "reference": "",
+              "file": "css-center-screen.md"
             }
-
 ]
