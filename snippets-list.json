@@ -196,5 +196,15 @@
               "categories": "",
               "reference": "",
               "file": "spring-rest-error-cors.md"
+            },{
+              "title": "CSS: list of useful selectors",
+              "description": "Most useful selectors in CSS, examples of usage",
+              "date": "2021-02-15T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "css",
+              "permalink": "/snippet/marco/css-selectors",
+              "categories": "",
+              "reference": "",
+              "file": "css-markdown-reference.md"
             }
 ]
