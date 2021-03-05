@@ -206,5 +206,15 @@
               "categories": "",
               "reference": "",
               "file": "css-markdown-reference.md"
+            },{
+              "title": "Angular: the backend saves the wrong date",
+              "description": "Date conversion error between Angular/Javascript and the REST service",
+              "date": "2021-03-05T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "angular",
+              "permalink": "/snippet/marco/angular-wrong-date",
+              "categories": "",
+              "reference": "",
+              "file": "angular-wrong-date.md"
             }
 ]
