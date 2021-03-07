@@ -216,5 +216,16 @@
               "categories": "",
               "reference": "",
               "file": "angular-wrong-date.md"
+            },
+            {
+              "title": "Fix the Whitelabel error when you deploy an Angular application in Spring Boot",
+              "description": "Solve: This application has no explicit mapping for /error, so you are seeing this as a fallback.",
+              "date": "2021-03-05T01:41:48+00:00",
+              "author": "marco",
+              "main-category": "angular",
+              "permalink": "/snippet/angular-spring-whitelabel",
+              "categories": "",
+              "reference": "",
+              "file": "angular-spring-error-whitelabel.md"
             }
 ]
