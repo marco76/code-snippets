@@ -185,17 +185,6 @@
               "categories": "",
               "reference": "",
               "file": "css-center-screen.md"
-            },
-            {
-              "title": "Spring how solve the CORS Policy error after a REST request",
-              "description": "Why you get 'Access to XMLHttpRequest at '[url]' from origin '[url]' has been blocked by CORS policy'",
-              "date": "2021-01-21T01:41:48+00:00",
-              "author": "marco",
-              "main-category": "spring",
-              "permalink": "/snippet/marco/spring-rest-cors-policy",
-              "categories": "",
-              "reference": "",
-              "file": "spring-rest-error-cors.md"
             },{
               "title": "CSS: list of useful selectors",
               "description": "Most useful selectors in CSS, examples of usage",
