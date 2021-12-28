@@ -22,17 +22,6 @@
               "file": "angular-libraries.md"
             },
             {
-              "title": "Call a function every x seconds in Angular",
-              "description": "How to call a function or http every few seconds in Angular",
-              "date": "2021-01-21T01:41:48+00:00",
-              "author": "marco",
-              "main-category": "angular",
-              "permalink": "/snippet/marco/http-request-every-x-seconds-in-angular",
-              "categories": "",
-              "reference": "",
-              "file": "angular-poll-rest.md"
-            },
-            {
               "title": "Angular setup a SSR project",
               "description": "Setup a Server Side Rendered project with Angular Universal",
               "date": "2021-01-21T01:41:48+00:00",
