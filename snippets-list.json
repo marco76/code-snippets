@@ -44,17 +44,6 @@
               "file": "css-dark-mode.md"
             },
             {
-              "title": "Generate a sitemap with Java",
-              "description": "Generate a sitemap with Java for your Website. This will allows Google to find your pages easily for your Search Engine Optimization.",
-              "date": "2021-01-21T01:41:48+00:00",
-              "author": "marco",
-              "main-category": "java",
-              "permalink": "/snippet/marco/generate-a-sitemap-with-java",
-              "categories": "",
-              "reference": "",
-              "file": "generate-sitemap.md"
-            },
-            {
               "title": "Does Java support default parameter values?",
               "description": "How to define a default parameter in a Java method? example",
               "date": "2021-01-21T01:41:48+00:00",
