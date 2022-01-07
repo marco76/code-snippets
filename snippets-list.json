@@ -98,17 +98,7 @@
               "file": "spring-scheduler.md",
               "reference": ""
             },
-            {
-              "title": "Spring Boot connect to MariaDB",
-              "description": "How to connect Spring Boot to MariaDB",
-              "date": "2021-01-21T01:41:48+00:00",
-              "author": "marco",
-              "main-category": "spring",
-              "permalink": "/snippet/marco/spring-boot-mariadb",
-              "categories": "",
-              "file": "mariadb-no-db-selected.md",
-              "reference": ""
-            },
+         
             {
               "title": "Java: short lists of values, define and check if value exists",
               "description": "Define a list of values and check if a value is present in Java.",
