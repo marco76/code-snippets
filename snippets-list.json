@@ -101,17 +101,6 @@
               "reference": ""
             },
             {
-              "title": "Spring: test JPA with H2",
-              "description": "How to test your repository using H2 when you use MySQL in production",
-              "date": "2021-01-21T01:41:48+00:00",
-              "author": "marco",
-              "main-category": "spring",
-              "permalink": "/snippet/marco/spring-test-database-jpa-h2-mysql",
-              "categories": "",
-              "file": "spring-test-database-h2-mysql.md",
-              "reference": ""
-            },
-            {
               "title": "CSS how to center items in the screen",
               "description": "You can center items in the screen using a CSS Grid Box",
               "date": "2021-01-21T01:41:48+00:00",
