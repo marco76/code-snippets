@@ -23,17 +23,6 @@
               "file": "java-default-parameter.md"
             },
             {
-              "title": "Calculate average of an array in Javascript",
-              "description": "Calculate the average of an array of values in Javascript in one line of code",
-              "date": "2021-01-21T01:41:48+00:00",
-              "author": "marco",
-              "main-category": "javascript",
-              "permalink": "/snippet/marco/calculate-average-of-an-array-javascript",
-              "categories": "",
-              "file": "js-average.md",
-              "reference": "https://stackoverflow.com/questions/29544371/finding-the-average-of-an-array-using-js/29544442"
-            },
-            {
               "title": "Queue in Javascript",
               "description": "Define a queue list in Javascript using FIFO (First In First Out)",
               "date": "2021-01-21T01:41:48+00:00",
