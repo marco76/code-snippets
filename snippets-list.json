@@ -12,17 +12,6 @@
               "file": "angular-ssr.md"
             },
             {
-              "title": "Does Java support default parameter values?",
-              "description": "How to define a default parameter in a Java method? example",
-              "date": "2021-01-21T01:41:48+00:00",
-              "author": "marco",
-              "main-category": "java",
-              "permalink": "/snippet/marco/java-default-parameter",
-              "categories": "",
-              "reference": "",
-              "file": "java-default-parameter.md"
-            },
-            {
               "title": "Queue in Javascript",
               "description": "Define a queue list in Javascript using FIFO (First In First Out)",
               "date": "2021-01-21T01:41:48+00:00",
